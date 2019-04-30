@@ -1,0 +1,1 @@
+This is a personal blogging site built with django 2.1
