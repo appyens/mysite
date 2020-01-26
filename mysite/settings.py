@@ -131,8 +131,8 @@ STATIC_URL = '/static/'
 # Email server configuration
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'an.anuraag@gmail.com'
-EMAIL_HOST_PASSWORD = '3UnTy!3###3'
+EMAIL_HOST_USER = 'email here'
+EMAIL_HOST_PASSWORD = 'password here'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
